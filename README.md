@@ -22,7 +22,7 @@ git clone https://github.com/prisca-sp/tiktok-techjam-2025-yuhh.git
 
 cd tiktok-techjam-2025-yuhh
 
-Get the Google Local Reviews dataset from McAuley Lab – Google Local Dataset (https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal/) or download from /data
+Get the Google Local Reviews datasets review-Hawaii.json, meta-Hawaii.json, review-New_York and meta-New_York.json from McAuley Lab – Google Local Dataset (https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal/)
 
 *How To Reproduce Results*
 
