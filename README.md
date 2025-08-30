@@ -17,10 +17,12 @@ Our pipeline includes:
 The model was evaluated on Google reviews from Hawaii and New York, successfully filtering out ads and spam, demonstrating generalization across datasets.
 
 *Setup Instructions*
+
 git clone https://github.com/prisca-sp/tiktok-techjam-2025-yuhh.git
 cd tiktok-techjam-2025-yuhh
 Get the Google Local Reviews dataset from McAuley Lab – Google Local Dataset (https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal/) or download from /data
 
 *How To Reproduce Results*
+
 Run the jupyter notebook - however, take note that running the code in batches is preferred to avoid crashing.
 
