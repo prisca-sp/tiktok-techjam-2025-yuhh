@@ -1,6 +1,6 @@
 # tiktok-techjam-2025-yuhh
 
-*Project Overview*
+## Project Overview
 
 This project focuses on filtering and classifying Google Local Reviews into three categories:
 1. Advertisements (e.g. reviews containing URLs such as www or http)
@@ -16,15 +16,21 @@ Our pipeline includes:
 
 The model was evaluated on Google reviews from New York, successfully filtering out ads and spam, demonstrating generalization across datasets.
 
-*Setup Instructions*
+## Setup Instructions
 
+```
 git clone https://github.com/prisca-sp/tiktok-techjam-2025-yuhh.git
+```
 
-cd tiktok-techjam-2025-yuhh
+Get the Google Local Reviews datasets [review-New_York](https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal/review-New_York.json.gz) and [meta-New_York.json](https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal/meta-New_York.json.gz) from [McAuley Lab – Google Local Dataset](https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal/)
 
-Get the Google Local Reviews datasets review-New_York and meta-New_York.json from McAuley Lab – Google Local Dataset (https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal/)
-
-*How To Reproduce Results*
+## How To Reproduce Results
 
 Run the jupyter notebook - however, take note that running the code in batches is preferred to avoid crashing.
 
+## Team Members
+| Name | Contributions |
+| ------------ | -- |
+| Saravanan Deepika | Sentiment analysis, Model Evaluation |
+| Sum Sze Wai Prisca | Data preprocessing, fine-tuned pseudo-labelling model |
+| Neo Yu Hui | Data preprocessing, fine-tuned classification model | 
