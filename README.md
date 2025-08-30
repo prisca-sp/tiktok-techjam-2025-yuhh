@@ -22,7 +22,7 @@ The model was evaluated on Google reviews from New York, successfully filtering 
 git clone https://github.com/prisca-sp/tiktok-techjam-2025-yuhh.git
 ```
 
-Get the Google Local Reviews datasets [review-New_York](https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal/review-New_York.json.gz) and [meta-New_York.json](https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal/meta-New_York.json.gz) from [McAuley Lab – Google Local Dataset](https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal/)
+Get the Google Local Reviews datasets [review-New_York](https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal/review-New_York.json.gz) and [meta-New_York.json](https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal/meta-New_York.json.gz) from [McAuley Lab – Google Local Dataset](https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal/). The model used for evaluation can be downloaded [here](https://drive.google.com/file/d/1DeATBCIvF5BEnJ5v38TGw8Yt7pP5OLvb/view)
 
 ## How To Reproduce Results
 
