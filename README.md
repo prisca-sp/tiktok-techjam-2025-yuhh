@@ -14,7 +14,7 @@ Our pipeline includes:
 3. Modeling (fine-tuned BERT with additional numeric features)
 4. Evaluation (manual ground truthing + external dataset testing)
 
-The model was evaluated on Google reviews from Hawaii and New York, successfully filtering out ads and spam, demonstrating generalization across datasets.
+The model was evaluated on Google reviews from New York, successfully filtering out ads and spam, demonstrating generalization across datasets.
 
 *Setup Instructions*
 
@@ -22,7 +22,7 @@ git clone https://github.com/prisca-sp/tiktok-techjam-2025-yuhh.git
 
 cd tiktok-techjam-2025-yuhh
 
-Get the Google Local Reviews datasets review-Hawaii.json, meta-Hawaii.json, review-New_York and meta-New_York.json from McAuley Lab – Google Local Dataset (https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal/)
+Get the Google Local Reviews datasets review-New_York and meta-New_York.json from McAuley Lab – Google Local Dataset (https://mcauleylab.ucsd.edu/public_datasets/gdrive/googlelocal/)
 
 *How To Reproduce Results*
 
